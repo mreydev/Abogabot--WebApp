@@ -29,4 +29,6 @@ Innovaccion Misison FrontEnd- Diseño de aplicación web
 ![Captura de pantalla 2022-11-05 201327](https://user-images.githubusercontent.com/114314498/200150837-0a0d4669-eced-43f8-8211-e8434bd2e652.jpg)
 
 ## 3. Publico Objetivo.
+![Target Audience](https://user-images.githubusercontent.com/114314498/200151683-2c76f62f-aa7c-45a3-ba0f-1af5d0633036.jpg)
+
 ## 4. Wireframe UX/UI
