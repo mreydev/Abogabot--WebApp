@@ -31,4 +31,24 @@ Innovaccion Misison FrontEnd- Diseño de aplicación web
 ## 3. Publico Objetivo.
 ![Target Audience](https://user-images.githubusercontent.com/114314498/200151683-2c76f62f-aa7c-45a3-ba0f-1af5d0633036.jpg)
 
-## 4. Wireframe UX/UI
+## 4. Wireframe UX
+
+## 5.UI
+
+
+![homepage](https://user-images.githubusercontent.com/114314498/200481959-012f4f2a-c7d7-4dbd-95fd-48a19a054017.png)
+
+
+![Login](https://user-images.githubusercontent.com/114314498/200481975-53a7f510-8fab-42ea-975d-a3a7c2018ef6.png)
+
+
+![Registro](https://user-images.githubusercontent.com/114314498/200482015-81db4629-adeb-48d6-b34f-bf1ce8581be7.png)
+
+
+![HomeAdmin](https://user-images.githubusercontent.com/114314498/200482026-5dcdf8cb-1c46-4068-a5d5-d708ce97601d.png)
+
+
+![homeCliente](https://user-images.githubusercontent.com/114314498/200482030-7999d1e3-23bb-4bac-af9c-2f2ee1c3bc44.png)
+
+
+![Registro (1)](https://user-images.githubusercontent.com/114314498/200482049-057e644d-6f44-4203-9729-5ada4e76c029.png)
